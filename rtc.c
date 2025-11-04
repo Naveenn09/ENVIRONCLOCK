@@ -48,10 +48,10 @@ void DisplayRTCDate(u32 date,u32 month,u32 year){
 
 	charLCD(((date/10))+48);
 	charLCD(((date%10))+48);
-	charLCD('-');
+	charLCD('/');
 	charLCD(((month/10))+48);
 	charLCD(((month%10))+48);
-	charLCD('-');
+	charLCD('/');
 	u32LCD(year);
 	
 }
