@@ -39,7 +39,7 @@ An embedded systems mini project that combines a real-time clock, temperature se
 
 Below is the Proteus circuit diagram used in this project:
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](D:\ENVIRONCLOCK\images)
 
 **Explanation:**
 - LPC2148 microcontroller connected with RTC and LM35 sensor.  
