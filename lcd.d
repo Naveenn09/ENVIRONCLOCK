@@ -1,0 +1,17 @@
+.\lcd.o: lcd.c
+.\lcd.o: types.h
+.\lcd.o: lcd_defines.h
+.\lcd.o: delay.h
+.\lcd.o: types.h
+.\lcd.o: defines.h
+.\lcd.o: C:\Keil\ARM\Inc\Philips\lpc213x.h
+.\lcd.o: lcd.h
+.\lcd.o: types.h
+.\lcd.o: delay.h
+.\lcd.o: types.h
+.\lcd.o: rtc.h
+.\lcd.o: types.h
+.\lcd.o: kpm.h
+.\lcd.o: types.h
+.\lcd.o: adc.h
+.\lcd.o: types.h
