@@ -1,0 +1,21 @@
+# Keil / Embedded build files
+*.crf
+*.d
+*.o
+*.axf
+*.hex
+*.map
+*.htm
+*.lnp
+*.dep
+*.build_log.htm
+
+# Keil project backups
+*.bak
+*.uvopt
+*.uvproj
+*.uvgui.*
+
+# Output folders (if any)
+Objects/
+Listings/

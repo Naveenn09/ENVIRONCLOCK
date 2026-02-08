@@ -1,9 +1,0 @@
-.\eint.o: eint.c
-.\eint.o: C:\Keil\ARM\Inc\Philips\LPC214x.h
-.\eint.o: eint.h
-.\eint.o: defines.h
-.\eint.o: pin_connect_block.h
-.\eint.o: types.h
-.\eint.o: eint_defines.h
-.\eint.o: pin_connect_block.h
-.\eint.o: types.h
